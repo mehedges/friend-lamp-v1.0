@@ -49,3 +49,9 @@ So again, I started this project not knowing anything really about RaspberryPi a
 |         Skill Level          |                 Where to Start         |           Directory                |
 |     -------------            |             -------------              |        -------------               |
 | Beginner to Raspberry Pi     |             here          |        here           |
+
+<div align="center">
+<img src=https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/630d0215-5f1f-4a2a-acce-457c7c19f24c" >
+<p>Image of one on the lamps</p>
+</div>
+
