@@ -26,3 +26,4 @@ The goal here for me, a college student, is to save money.
 |         Program          |                          What it Does             |                         Link to Download                |
 |     -------------        |                -------------                      |                         -------------                   |
 | Raspberry Pi Imager      | Flashes the SD card with an operating system (OS) | [Raspberry Pi OS](https://www.raspberrypi.com/software/)|
+| Bonjour                  | Allows the Raspberry Pi to print out on Putty     | [Website Link](https://support.apple.com/kb/DL999?locale=en_US)|
