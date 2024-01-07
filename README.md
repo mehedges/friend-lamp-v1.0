@@ -23,6 +23,6 @@ The goal here for me, a college student, is to save money.
 - Micro USB (to USB)
 
 ## Software
-|         Program          |     What it Does     |     Link to Download     |
-|     -------------        |    -------------     |         -------------    |
-|
+|         Program          |                          What it Does             |                         Link to Download                |
+|     -------------        |                -------------                      |                         -------------                   |
+| Raspberry Pi Imager      | Flashes the SD card with an operating system (OS) | [Raspberry Pi OS](https://www.raspberrypi.com/software/)|
