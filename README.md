@@ -14,5 +14,5 @@ The goal here for me, a college student, is to save money.
 |  -------------           |     -------------        | ------------- | ------------- |
 |![](https://goo.gl/1R3T6h)|     Raspberry Pi 0       |     $15.00    |[Adafruit](https://www.adafruit.com/product/3400)|
 |![](https://goo.gl/1R3T6h)|     8GB MicroSD Card     |     $9.95     |[Adafruit](https://www.adafruit.com/product/1294)|
-|![](https://m.media-amazon.com/images/I/51H5cvVGxUL._AC_SL1000_.jpg)| KY-004 OR Tactile Switch | $6.49 (3 pack)|[Amazon](https://www.amazon.com/KY-004-Button-Switch-Sensor-Module/dp/B0786BDFT5)|
+| <img src="https://m.media-amazon.com/images/I/51H5cvVGxUL._AC_SL1000_.jpg" width="100" />| KY-004 OR Tactile Switch | $6.49 (3 pack)|[Amazon](https://www.amazon.com/KY-004-Button-Switch-Sensor-Module/dp/B0786BDFT5)|
 
