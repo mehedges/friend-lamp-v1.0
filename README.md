@@ -6,9 +6,9 @@ This is my take on the friend lamp project! It is very important to note this pr
 [Their GitHub Page](https://github.com/tmckay1/best_friend_light)
 
 ## Plans for Future Updates
-I originally made this project for my mom while I'm away at college, since she mentions she worries about me sometimes (in a sweet way lol). But, I also have online friends in Europe that requested a lamp for themselves, which would be awesome if I got it working worldwide. Technically, that should be possible. Also, I have so many ideas for a newer, 'updated' version of the one I just made for my mom. Of course she will get the first updated lamp, but I will also make another folder and everything for v2.0.
+I originally made this project for my mom while I'm away at college, since she mentions she worries about me sometimes (in a sweet way lol). But, I also have online friends in Europe that requested a lamp for themselves, which would be awesome if I got it working worldwide. Technically, that should be possible. Also, I have so many ideas for a newer, 'updated' version of the one I just made for my mom. Of course she will get the first updated lamp, but I will also make another folder and everything for v2.0. Below I will put some starting materials you will need for v1.0.
 
-## Materials
+## Hardware
 The goal here for me, a college student, is to save money. 
 |                                                                                         |           Part           |     Price     |                 Link to Part                    |
 |                                    -------------                                        |     -------------        | ------------- |                   -------------                 |
@@ -22,3 +22,7 @@ The goal here for me, a college student, is to save money.
 - Wires
 - Micro USB (to USB)
 
+## Software
+|         Program          |     What it Does     |     Link to Download     |
+|     -------------        |    -------------     |         -------------    |
+|
