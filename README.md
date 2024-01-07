@@ -12,5 +12,5 @@ I originally made this project for my mom while I'm away at college, since she m
 The goal here for me, a college student, is to save money. 
 |     Part      |     Price     | Link to Part  |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Raspberry Pi 0|     $15.00    |[Adafruit](https://www.adafruit.com/product/3400)|
 | Content Cell  | Content Cell  |
