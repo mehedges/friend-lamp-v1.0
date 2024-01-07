@@ -15,4 +15,10 @@ The goal here for me, a college student, is to save money.
 |<img src="https://cdn-shop.adafruit.com/970x728/3400-00.jpg" width="100" />              |     Raspberry Pi 0       |     $15.00    |[Adafruit](https://www.adafruit.com/product/3400)|
 |<img src="https://cdn-shop.adafruit.com/970x728/1294-03.jpg" width="100" />              |     8GB MicroSD Card     |     $9.95     |[Adafruit](https://www.adafruit.com/product/1294)|
 |<img src="https://m.media-amazon.com/images/I/51H5cvVGxUL._AC_SL1000_.jpg" width="100" />|KY-004 (OR Tactile Switch)| $6.49 (3 pack)|[Amazon](https://www.amazon.com/KY-004-Button-Switch-Sensor-Module/dp/B0786BDFT5)|
+|<img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/59/WP154A4SUREQBFZGC.JPG" width="100" />|4-Pin RGB LED| $1.88 (x2)|[Digikey](https://www.digikey.com/en/products/detail/kingbright/WP154A4SUREQBFZGC/3084119?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Medium%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20223376311_adg-_ad-__dev-c_ext-_prd-3084119_sig-Cj0KCQiAtOmsBhCnARIsAGPa5yZKuHfFNeNOZGDt0-6JHBbu6RP6r3f0rWSvfbtb0RbuAug3cY-6Dr4aAsVfEALw_wcB&gad_source=1&gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yZKuHfFNeNOZGDt0-6JHBbu6RP6r3f0rWSvfbtb0RbuAug3cY-6Dr4aAsVfEALw_wcB)|
+
+### Miscellaneous Needed Materials
+- Electrical Solder + Soldering Iron
+- Wires
+- Micro USB (to USB)
 
