@@ -27,3 +27,4 @@ The goal here for me, a college student, is to save money.
 |     -------------        |                -------------                      |                         -------------                   |
 | Raspberry Pi Imager      | Flashes the SD card with an operating system (OS) | [Raspberry Pi OS](https://www.raspberrypi.com/software/)|
 | Bonjour                  | Allows the Raspberry Pi to print out on Putty     | [Website Link](https://support.apple.com/kb/DL999?locale=en_US)|
+| Putty                    | Creates a SSH to connect and control the Raspberry Pi. NEEDED! | [Website Link](https://www.putty.org)      |
