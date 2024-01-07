@@ -7,7 +7,7 @@ This is my take on the friend lamp project! It is very important to note this pr
 
 <div align="center">
 <img src=https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/9abcbcd7-098a-4d06-a401-509a36542d43" >
-<p>Perfectly balanced</p>
+<p>Image of one on the lamps</p>
 </div>
 
 
