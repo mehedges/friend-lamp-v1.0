@@ -53,7 +53,7 @@ So again, I started this project not knowing anything really about RaspberryPi a
 Good Luck!
 
 <div align="center">
-<img src=https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/630d0215-5f1f-4a2a-acce-457c7c19f24c" width="100" >
+<img src=https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/630d0215-5f1f-4a2a-acce-457c7c19f24c" width="500" >
 <p>Image of one on the lamps</p>
 </div>
 
