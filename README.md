@@ -16,6 +16,7 @@ This is my take on the friend lamp project! It is very important to note this pr
 ## Plans for Future Updates
 I originally made this project for my mom while I'm away at college, since she mentions she worries about me sometimes (in a sweet way lol). But, I also have online friends in Europe that requested a lamp for themselves, which would be awesome if I got it working worldwide. Technically, that should be possible. Also, I have so many ideas for a newer, 'updated' version of the one I just made for my mom. Of course she will get the first updated lamp, but I will also make another folder and everything for v2.0. Below I will put some starting materials you will need for v1.0.
 
+
 ## Hardware
 The goal here for me, a college student, is to save money. 
 |                                                                                         |           Part           |     Price     |                 Link to Part                    |
@@ -33,9 +34,6 @@ The goal here for me, a college student, is to save money.
 - Acrylic plastic sheet (+sander if the diffused/frosted look is wanted)
 - Hot glue gun + hot glue
 
-
-
-
 ## Software
 Again, I'm trying to save money. All of these programs are free.
 |         Program          |                          What it Does             |                         Link to Download                |
@@ -45,3 +43,9 @@ Again, I'm trying to save money. All of these programs are free.
 | Putty                    | Creates a SSH to connect and control the Raspberry Pi. NEEDED! | [Website Link](https://www.putty.org)      |
 | Advanced IP Scanner      | Not required, but very helpful when checking to see if the Pies are online| [Here](https://www.advanced-ip-scanner.com)|
 | AirTable                 | Allows Pies to connect to each other via WiFi, vs local network (for Pies not on the same WiFi)| [Link](https://www.airtable.com/lp/campaign/brand?utm_source=google&utm_medium=paidsearch&utm_extra5=kwd-325289323194&utm_extra2=936407691&utm_extra10=47735600558&creative=611964234627&utm_extra8=c&cx=us&utm_campaign=demand_na_productoperation_creator&utm_content=text&utm_term=airtable&gad_source=1&gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yb9q4I9tKWIUQj190MgX_98i6qhv1bomkUV4HECtTjx7p94hkKnTdYaAoc5EALw_wcB)|
+
+## Where to Start
+So again, I started this project not knowing anything really about RaspberryPi and there can be a steep learning curve. To make it easier, I thought I could break down the project based on experience/skill. That way, you don't have to go digging around for hours to get answers that don't make any sense. Plus, it helps me cement this stuff in my head and learn it.
+|         Skill Level          |                 Where to Start         |           Directory                |
+|     -------------            |             -------------              |        -------------               |
+| Beginner to Raspberry Pi     |             here          |        here           |
