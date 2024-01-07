@@ -10,7 +10,7 @@ I originally made this project for my mom while I'm away at college, since she m
 
 ## Materials
 The goal here for me, a college student, is to save money. 
-| Part  | Price | Link to Part |
+|     Part      |     Price     | Link to Part  |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
