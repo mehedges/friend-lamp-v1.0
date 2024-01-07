@@ -12,7 +12,7 @@ I originally made this project for my mom while I'm away at college, since she m
 The goal here for me, a college student, is to save money. 
 |                          |           Part           |     Price     | Link to Part  |
 |  -------------           |     -------------        | ------------- | ------------- |
-|                          |     Raspberry Pi 0       |     $15.00    |[Adafruit](https://www.adafruit.com/product/3400)|
-|                          |     8GB MicroSD Card     |     $9.95     |[Adafruit](https://www.adafruit.com/product/1294)|
-|                          | KY-004 OR Tactile Switch | $6.49 (3 pack)|[Amazon](https://www.amazon.com/KY-004-Button-Switch-Sensor-Module/dp/B0786BDFT5)|
+|![](https://goo.gl/1R3T6h)|     Raspberry Pi 0       |     $15.00    |[Adafruit](https://www.adafruit.com/product/3400)|
+|![](https://goo.gl/1R3T6h)|     8GB MicroSD Card     |     $9.95     |[Adafruit](https://www.adafruit.com/product/1294)|
+|![](https://goo.gl/1R3T6h)| KY-004 OR Tactile Switch | $6.49 (3 pack)|[Amazon](https://www.amazon.com/KY-004-Button-Switch-Sensor-Module/dp/B0786BDFT5)|
 
