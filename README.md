@@ -23,8 +23,10 @@ The goal here for me, a college student, is to save money.
 - Micro USB (to USB)
 
 ## Software
+Again, I'm trying to save money. All of these programs are free.
 |         Program          |                          What it Does             |                         Link to Download                |
 |     -------------        |                -------------                      |                         -------------                   |
 | Raspberry Pi Imager      | Flashes the SD card with an operating system (OS) | [Raspberry Pi OS](https://www.raspberrypi.com/software/)|
 | Bonjour                  | Allows the Raspberry Pi to print out on Putty     | [Website Link](https://support.apple.com/kb/DL999?locale=en_US)|
 | Putty                    | Creates a SSH to connect and control the Raspberry Pi. NEEDED! | [Website Link](https://www.putty.org)      |
+| Advanced IP Scanner      | Not required, but very helpful when checking to see if the Pies are online| [Here](https://www.advanced-ip-scanner.com)|
