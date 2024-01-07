@@ -5,7 +5,9 @@ This is my take on the friend lamp project! It is very important to note this pr
 
 [Their GitHub Page](https://github.com/tmckay1/best_friend_light)
 
-<div align=”center”>![20240107_135424](https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/9abcbcd7-098a-4d06-a401-509a36542d43)
+<p align="center">
+  <img width="460" src="[https://picsum.photos/460/300](https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/9abcbcd7-098a-4d06-a401-509a36542d43)">
+</p>
 
 ## Plans for Future Updates
 I originally made this project for my mom while I'm away at college, since she mentions she worries about me sometimes (in a sweet way lol). But, I also have online friends in Europe that requested a lamp for themselves, which would be awesome if I got it working worldwide. Technically, that should be possible. Also, I have so many ideas for a newer, 'updated' version of the one I just made for my mom. Of course she will get the first updated lamp, but I will also make another folder and everything for v2.0. Below I will put some starting materials you will need for v1.0.
