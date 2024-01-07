@@ -11,6 +11,8 @@ This is my take on the friend lamp project! It is very important to note this pr
 </div>
 
 
+
+
 ## Plans for Future Updates
 I originally made this project for my mom while I'm away at college, since she mentions she worries about me sometimes (in a sweet way lol). But, I also have online friends in Europe that requested a lamp for themselves, which would be awesome if I got it working worldwide. Technically, that should be possible. Also, I have so many ideas for a newer, 'updated' version of the one I just made for my mom. Of course she will get the first updated lamp, but I will also make another folder and everything for v2.0. Below I will put some starting materials you will need for v1.0.
 
@@ -30,6 +32,9 @@ The goal here for me, a college student, is to save money.
 - Some sort of stand (I used a cardboard box for mine)
 - Acrylic plastic sheet (+sander if the diffused/frosted look is wanted)
 - Hot glue gun + hot glue
+
+
+
 
 ## Software
 Again, I'm trying to save money. All of these programs are free.
