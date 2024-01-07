@@ -18,9 +18,12 @@ The goal here for me, a college student, is to save money.
 |<img src="https://cdn11.bigcommerce.com/s-3fd3md1ghs/images/stencil/1280x1280/products/29723/11400/rgb-led-diffused__74395.1577790268.jpg?c=2" width="100" />|4-Pin RGB LED| $1.88 (x2)|[Digikey](https://www.digikey.com/en/products/detail/kingbright/WP154A4SUREQBFZGC/3084119?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Medium%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20223376311_adg-_ad-__dev-c_ext-_prd-3084119_sig-Cj0KCQiAtOmsBhCnARIsAGPa5yZKuHfFNeNOZGDt0-6JHBbu6RP6r3f0rWSvfbtb0RbuAug3cY-6Dr4aAsVfEALw_wcB&gad_source=1&gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yZKuHfFNeNOZGDt0-6JHBbu6RP6r3f0rWSvfbtb0RbuAug3cY-6Dr4aAsVfEALw_wcB)|
 
 ### Miscellaneous Needed Materials
-- Electrical Solder + Soldering Iron
+- Electrical solder + Soldering iron
 - Wires
 - Micro USB (to USB)
+- Some sort of stand (I used a cardboard box for mine)
+- Acrylic plastic sheet (+sander if the diffused/frosted look is wanted)
+- Hot glue gun + hot glue
 
 ## Software
 Again, I'm trying to save money. All of these programs are free.
