@@ -46,9 +46,9 @@ Again, I'm trying to save money. All of these programs are free.
 
 ## Where to Start
 So again, I started this project not knowing anything really about RaspberryPi and there can be a steep learning curve. To make it easier, I thought I could break down the project based on experience/skill. That way, you don't have to go digging around for hours to get answers that don't make any sense. Plus, it helps me cement this stuff in my head and learn it.
-|         Skill Level          |                 Where to Start         |           Directory                |
-|     -------------            |             -------------              |        -------------               |
-| Beginner to Raspberry Pi     |             here          |        here           |
+|         Skill Level          |                                             Where to Start                                   |                   Directory                    |
+|     -------------            |               ----------------------------------------------------                           |                -------------                   |
+| Beginner to Raspberry Pi     |[Here](https://github.com/mehedges/friend-lamp-v1.0/blob/main/beginner%20steps!/start_here.md)|friend-lamp-v1.0/beginner steps!/start_here.md  |
 
 Good Luck!
 
