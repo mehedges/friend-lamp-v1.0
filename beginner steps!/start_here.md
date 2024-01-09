@@ -17,6 +17,11 @@ Here are some great articles & videos to help describe some steps further/help i
 
 [![IMAGE ALT TEXT HERE](https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/add83b53-3f5f-4040-be6c-85bb92f26cf8)](https://www.youtube.com/watch?v=4HxsYFcortE "YouTube guide by ArtsyEngineering")
 
+## Dictionary
+**Flash/ing-** Writing data to the SD card. In this case, we are "writing" or "flashing" the OS onto the SD card.
+**Local Network -** Also called a "LAN" or local area network, consists of devices connected together closely either by ethernet or by WiFi. Basically, anything in your house that shares the same WiFi.
+**WPA -** Stands for "WiFi Protected Access," which is the password/key that protects your WiFi (and ergo, devices on that WiFI network).
+
 ## Steps
 1. Download the Raspberry Pi Imager and insert the SD card into your computer.
 2. In the Raspberry Pi Imager, choose the board you have. Then, select either the Raspbery Pi OS or the Raspberry Pi OS Lite (Raspberry Pi OS (other)>Lite)
