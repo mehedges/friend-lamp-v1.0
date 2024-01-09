@@ -21,7 +21,7 @@ Here are some great articles & videos to help describe some steps further/help i
 
 **Flash/ing-** Writing data to the SD card. In this case, we are "writing" or "flashing" the OS onto the SD card.
 
-**Headless-**
+**Headless-** Using a device without a usual screen. Instead, it is controlled remotely via a terminal.
 
 **Local Network-** Also called a "LAN" or local area network, consists of devices connected together closely either by ethernet or by WiFi. Basically, anything in your house that shares the same WiFi.
 
@@ -36,3 +36,8 @@ Here are some great articles & videos to help describe some steps further/help i
 | Option 1 | Option 2 |
 |----------|----------|
 |Select 'Next' and then 'Edit Settings' to add your WiFi information, raspberry pi username and password (for that device specifically)| Create a file for ssh and wpa configuration. This may require following the steps in either the Instructables guide or the YouTuve tutorial by Data Slayer. These were very helpful guides when I first started out.|
+
+5. Follow a guide linked above, depending on which option seems better for you in Step 4. If that doesn't work, try the other option! I have used both.
+6. Congrats! You should have your flashed SD card now!
+
+[Next Guide](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fnext-button_3172641&psig=AOvVaw3LAyB_e4mbAWFotasABqH4&ust=1704900646095000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi_64vQ0IMDFQAAAAAdAAAAABAD)
