@@ -40,5 +40,5 @@ Here are some great articles & videos to help describe some steps further/help i
 5. Follow a guide linked above, depending on which option seems better for you in Step 4. If that doesn't work, try the other option! I have used both.
 6. Congrats! You should have your flashed SD card now!
 
-[Next Guide]()
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fnext-button_3172641&psig=AOvVaw3LAyB_e4mbAWFotasABqH4&ust=1704900646095000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi_64vQ0IMDFQAAAAAdAAAAABAD)
+[Next Guide](https://github.com/mehedges/friend-lamp-v1.0/blob/00edb04a81ba00e081c86dd27419ba08f246f928/beginner%20steps!/beginner%20step%202.md)
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fnext-button_3172641&psig=AOvVaw3LAyB_e4mbAWFotasABqH4&ust=1704900646095000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi_64vQ0IMDFQAAAAAdAAAAABAD]
