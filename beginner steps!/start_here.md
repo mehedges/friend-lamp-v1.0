@@ -18,4 +18,11 @@ Here are some great articles & videos to help describe some steps further/help i
 [![IMAGE ALT TEXT HERE](https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/add83b53-3f5f-4040-be6c-85bb92f26cf8)](https://www.youtube.com/watch?v=4HxsYFcortE "YouTube guide by ArtsyEngineering")
 
 ## Steps
-1. 
+1. Download the Raspberry Pi Imager and insert the SD card into your computer.
+2. In the Raspberry Pi Imager, choose the board you have. Then, select either the Raspbery Pi OS or the Raspberry Pi OS Lite (Raspberry Pi OS (other)>Lite)
+3. Select the storage device, which is the SD card (might appear as E:/ or something similar)
+4. Here is where the steps diverege in what can be done:
+
+| Option 1 | Option 2 |
+|----------|----------|
+|Select 'Next' and then 'Edit Settings' to add your WiFi information, raspberry pi username and password (for that device specifically)| Create a file for ssh and wpa configuration|
