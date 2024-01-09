@@ -15,7 +15,7 @@ Here are some great articles & videos to help describe some steps further/help i
 
 [Instructables- written by ArtsyEngineering](https://www.instructables.com/The-Ultimate-Headless-RPi-Zero-Setup-for-Beginners/)
 
-[![IMAGE ALT TEXT HERE](https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/add83b53-3f5f-4040-be6c-85bb92f26cf8)](https://www.youtube.com/watch?v=4HxsYFcortE)
+[![IMAGE ALT TEXT HERE](https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/add83b53-3f5f-4040-be6c-85bb92f26cf8)](https://www.youtube.com/watch?v=4HxsYFcortE "YouTube guide by ArtsyEngineering")
 
 ## Steps
 1. 
