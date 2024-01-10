@@ -41,4 +41,4 @@ Here are some great articles & videos to help describe some steps further/help i
 6. Congrats! You should have your flashed SD card now!
 
 [Next Guide](https://github.com/mehedges/friend-lamp-v1.0/blob/00edb04a81ba00e081c86dd27419ba08f246f928/beginner%20steps!/beginner%20step%202.md)
-<img src="https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/3885f81a-c80b-4be8-8a9a-16cd58c837d5" width="100" /> 
+<img src="https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/3885f81a-c80b-4be8-8a9a-16cd58c837d5" width="50" /> 
