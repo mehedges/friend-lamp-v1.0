@@ -1,7 +1,7 @@
 # Connecting to Raspberry Pi for the First Time
 Sweet! You're onto the next major step dealing with the Raspberry Pi setup.
 
-<img src="https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/a056198e-2206-4b1a-bbf6-152f53d59ca3" width="20" />
+<img src="https://github.com/mehedges/friend-lamp-v1.0/assets/102606124/a056198e-2206-4b1a-bbf6-152f53d59ca3" width="15" />
 [Previous Guide]()
 
 [Next Guide]()
